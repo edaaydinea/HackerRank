@@ -1,12 +1,12 @@
 <p align="center">
     <a href="https://www.hackerrank.com/edaaydinea">
-        <img alt="HackerRank Logo | Eda AYDIN Profile" src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg" >
+        <img alt="HackerRank Logo | Eda AYDIN Profile" src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg", width = 450 >
     </a>
 </p>
 
 # HackerRank | Practice, Tutorials & Interview Preparation Solutions
 
-This repository consists of solutions to HackerRank **practice**, **tutorials**, and **interview preparation** problems with **Python**, **mySQL**, **C#**, and **JavaScript**.
+This repository consists of solutions to HackerRank **practice**, **tutorials**, and **interview preparation** problems with **Python**, **mySQL**, **C++**, and **Java**.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/edaaydinea/HackerRank)](https://github.com/edaaydinea/HackerRank/commits/master)
 [![GitHub repo size](https://img.shields.io/github/repo-size/edaaydinea/HackerRank)](https://github.com/edaaydinea/HackerRank/archive/master.zip)
