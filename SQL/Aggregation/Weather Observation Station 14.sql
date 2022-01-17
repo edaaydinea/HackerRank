@@ -1,0 +1,11 @@
+/*
+ Author: Eda AYDIN
+ */
+
+SELECT TRUNCATE(MAX(LAT_N),4)
+FROM STATION
+WHERE LAT_N < 137.2345
+
+/*
+ 137.0193
+ */

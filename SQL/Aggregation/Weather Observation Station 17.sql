@@ -1,0 +1,13 @@
+/*
+ Author: Eda AYDIN
+ */
+
+SELECT ROUND(LONG_W,4)
+FROM STATION
+WHERE LAT_N > 38.7780
+ORDER BY LAT_N
+    LIMIT 1
+
+/*
+ 70.1378
+ */
