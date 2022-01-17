@@ -17,8 +17,9 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 ## HackerRank Badges
 
-![Python](https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/python_5_star.png)
 ![30 Days of Code](https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/30-days-of-code_5_star.png)
+![Python](https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/python_5_star.png)
+![SQL](https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/sql_5_star.png)
 
 
 ## HackerRank Certificates
