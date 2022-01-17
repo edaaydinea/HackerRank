@@ -6,7 +6,7 @@
 
 # HackerRank | Practice, Tutorials & Interview Preparation Solutions
 
-This repository consists of solutions to HackerRank **practice**, **tutorials**, and **interview preparation** problems with **Python**, **mySQL**, **C++**, and **Java**.
+This repository consists of solutions to HackerRank **practice**, **tutorials**, and **interview preparation** problems with **Python**, **SQL**, **C++**, and **Java**.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/edaaydinea/HackerRank)](https://github.com/edaaydinea/HackerRank/commits/master)
 [![GitHub repo size](https://img.shields.io/github/repo-size/edaaydinea/HackerRank)](https://github.com/edaaydinea/HackerRank/archive/master.zip)
