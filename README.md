@@ -17,19 +17,18 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 ## HackerRank Badges
 
-![30 Days of Code](https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/30-days-of-code_5_star.png)
-![10 Days of Statistics](https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/10_days_of_statistics_5_star.png)
-![Python](https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/python_5_star.png)
-![Java](https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/java_5_star.png)
-![SQL](https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/sql_5_star.png)
+<p align="left">
+    <img alt="30 Days of Code" src="https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/30-days-of-code_5_star.png", width = 100 >
+    <img alt="10 Days of Statistics" src="https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/10_days_of_statistics_5_star.png", width = 100 >
+    <img alt="Python" src="https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/python_5_star.png", width = 100 >
+    <img alt="Java" src="https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/java_5_star.png", width = 110 >
+    <img alt="SQL" src="https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/sql_5_star.png", width = 100 >
+</p>
 
 
 ## HackerRank Certificates
 
-
-<a href="Skills%20Certification/Python%20(Basic)%20Certificate.png">
-    <img src="Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
-</a>
-<a href="Skills%20Certification/SQL%20(Basic)%20Certificate.png">
-    <img src="Badges/sql_basic_skill.png" alt="SQL (Basic) Certificate"/>
-</a>
+<p align="left">
+    <a href="Skills%20Certification/Python%20(Basic)%20Certificate.png"> <img src="Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/> </a>
+    <a href="Skills%20Certification/SQL%20(Basic)%20Certificate.png"> <img src="Badges/sql_basic_skill.png" alt="SQL (Basic) Certificate"/> </a>
+</p>
