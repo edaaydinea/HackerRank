@@ -31,4 +31,6 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 <p align="left">
     <a href="Skills%20Certification/Python%20(Basic)%20Certificate.png"> <img src="Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/> </a>
     <a href="Skills%20Certification/SQL%20(Basic)%20Certificate.png"> <img src="Badges/sql_basic_skill.png" alt="SQL (Basic) Certificate"/> </a>
+     <a href="Skills%20Certification/SQL%20(Intermediate)%20Certificate.png"> <img src="Badges/sql_intermediate_skill.png" alt="SQL (Intermdiate) Certificate"/> </a>
+    
 </p>
