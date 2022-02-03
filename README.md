@@ -18,6 +18,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 ## HackerRank Badges
 
 <p align="left">
+    <img alt="Problem Solving" src="https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/problem_solving_start_5.png", width = 100 >
     <img alt="30 Days of Code" src="https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/30-days-of-code_5_star.png", width = 100 >
     <img alt="10 Days of Statistics" src="https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/10_days_of_statistics_5_star.png", width = 100 >
     <img alt="Python" src="https://raw.githubusercontent.com/edaaydinea/HackerRank/master/Badges/python_5_star.png", width = 100 >
