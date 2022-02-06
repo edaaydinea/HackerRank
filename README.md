@@ -10,6 +10,8 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/edaaydinea/HackerRank)](https://github.com/edaaydinea/HackerRank/commits/master)
 [![GitHub repo size](https://img.shields.io/github/repo-size/edaaydinea/HackerRank)](https://github.com/edaaydinea/HackerRank/archive/master.zip)
+[![GitHub License](https://img.shields.io:/github/license/edaaydinea/HackerRank)](https://img.shields.io:/github/license/edaaydinea/HackerRank)
+[![GitHub Written in](https://img.shields.io/badge/Written%20in%20-Python%2C%20Java%2C%20C%2B%2B%2C%20MYSQL-blue)](https://img.shields.io/badge/Written%20in%20-Python%2C%20Java%2C%20C%2B%2B%2C%20MYSQL-blue)
 
 ## Personal HackerRank Profile
 
