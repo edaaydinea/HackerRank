@@ -31,7 +31,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 <p align="left">
     <a href="Skills%20Certification/Problem%20Solving%20(Basic).png"> <img src="Badges/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/> </a>
-    <a href="Skills%20Certification/Problem%20Solving%20(Intermediate).png"> <img src="Badges/problem_solving_intermediate_skill.png" alt="Problem Solving (Intermediate) Certificate"/> </a>
+    <a href="Skills%20Certification/Problem%20Solving%20(Intermediate).png"> <img src="Badges/problem_solving_intermediate_skill.png", height = 110 alt="Problem Solving (Intermediate) Certificate"/> </a>
     <a href="Skills%20Certification/Python%20(Basic)%20Certificate.png"> <img src="Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/> </a>
     <a href="Skills%20Certification/Java%20(Basic).png"> <img src="Badges/java_basic_skill.png" alt="Java (Basic) Certificate"/> </a>
     <a href="Skills%20Certification/SQL%20(Basic)%20Certificate.png"> <img src="Badges/sql_basic_skill.png" alt="SQL (Basic) Certificate"/> </a>
