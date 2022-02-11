@@ -14,6 +14,7 @@ import sys
 # The function accepts INTEGER n as parameter.
 #
 
+
 def primality(n):
     # Write your code here
     if n == 1:
