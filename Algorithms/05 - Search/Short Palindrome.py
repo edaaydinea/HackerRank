@@ -17,11 +17,12 @@ def shortPalindrome(s):
     c2 = [0] * 26 * 26
     c3 = [0] * 26 * 26
     count = 0
+    r26 = list(range(26))
     for c in s:
         k = ord(c) - 97
         p = 26 * k - 1
         q = k - 26
-        for i in list(range(26)):
+        for i in r26:
             q += 26
             p += 1
             count += c3[q]
