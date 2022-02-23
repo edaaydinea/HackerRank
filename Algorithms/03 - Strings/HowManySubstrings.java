@@ -4,7 +4,7 @@ import java.io.InputStream;
 import java.io.PrintWriter;
 import java.util.*;
 
-public class How_Many_Substrings {
+public class HowManySubstrings {
     public int lenbuf = 0, ptrbuf = 0;
     InputStream is;
     PrintWriter out;
@@ -808,3 +808,4 @@ public class How_Many_Substrings {
         }
     }
 }
+
