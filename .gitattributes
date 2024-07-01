@@ -2,3 +2,6 @@
 *.sql linguist-language=sql
 *.sql text
 *.pdf
+
+# MockInterview folders
+MockInterview/linguist-detectable=true
