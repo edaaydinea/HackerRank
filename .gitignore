@@ -3,6 +3,9 @@
 *.xml
 *.pdf
 
-# MockInterview folders
-./1MonthPreparationKit/Week1/MockInterview
-./1MonthPreparationKit/Week2/MockInterview
+
+1MonthPreparationKit/Week1/MockInterview/13MockTest1.py
+1MonthPreparationKit/Week1/MockInterview/14MockTest2.py
+1MonthPreparationKit/Week2/MockInterview/14MockTest1.py
+1MonthPreparationKit/Week2/MockInterview/15MockTest2.py
+1MonthPreparationKit/Week2/MockInterview/16MockText3.py
