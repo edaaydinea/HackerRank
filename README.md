@@ -38,5 +38,13 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
     <a href="Skills%20Certification/Python%20(Basic)%20Certificate.png"> <img src="Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/></a>
     <a href="Skills%20Certification/Java%20(Basic).png"> <img src="Badges/java_basic_skill.png" alt="Java (Basic) Certificate"/></a>
     <a href="Skills%20Certification/SQL%20(Basic)%20Certificate.png"> <img src="Badges/sql_basic_skill.png" alt="SQL (Basic) Certificate"/></a>
-    <a href="Skills%20Certification/SQL%20(Intermediate).png"> <img src="Badges/sql_intermediate_skill.png" alt="SQL (Intermediate) Certificate"/> </a>  
+    <a href="Skills%20Certification/SQL%20(Intermediate).png"> <img src="Badges/sql_intermediate_skill.png" alt="SQL (Intermediate) Certificate"/> </a>
+    <a href="Skills%20Certification/SQL (Advanced).png"> <img src="Badges/SQL_adv_badge.png" width = 86 alt="SQL (Advanced) Certificate"/> </a> 
+</p>
+
+## HackerRank Role Certificates
+
+<p align="left">
+    <a href="Skills%20Certification/Software Engineer Intern.png"> <img src="Badges/se_intern_badge.png" width = 86 alt="Software Engineer Intern Certificate"/></a>
+    <a href="Skills%20Certification/Software Engineer.png"> <img src="Badges/se_badge.png" width = 86 alt="Software Engineer Certificate"/></a>
 </p>
