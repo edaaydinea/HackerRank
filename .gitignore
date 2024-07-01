@@ -1,3 +1,8 @@
 
 .idea/inspectionProfiles/Project_Default.xml
 *.xml
+*.pdf
+
+# MockInterview folders
+./1MonthPreparationKit/Week1/MockInterview
+./1MonthPreparationKit/Week2/MockInterview
